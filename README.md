@@ -28,6 +28,10 @@ You have been provided with raw data, so you’ll first need to process it to fi
 
 Create an elbow plot to identify the best number of clusters. Make sure to do the following:
 
+## Part 4: Make a Recommendation
+
+Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. Can the patients be clustered? If so, into how many clusters?
+
 * Use a <code>for</code> loop to determine the inertia for each <code>k</code> between 1 through 10.
 
 * If possible, determine where the elbow of the plot is, and at which value of <code>k</code> it appears.
